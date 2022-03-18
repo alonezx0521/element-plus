@@ -23,7 +23,7 @@ const load = () => {
   setTimeout(() => {
     count.value += 2
     loading.value = false
-  }, 2000)
+  }, 1000)
 }
 </script>
 
